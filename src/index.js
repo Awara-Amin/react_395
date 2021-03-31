@@ -7,8 +7,9 @@ import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <div>
-    <h1>Family Names</h1>
+    <h1>Family Names are;</h1>
     <ul>
+      {/* li is self closing tag */}
       <li> Awara</li>
       <li> Hawraz</li>
       <li> Deren</li>
